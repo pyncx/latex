@@ -1,0 +1,94 @@
+\documentclass[11pt,papersize=8.5in,11in]{report}
+\usepackage{comment}
+\usepackage[dvips,letterpaper,top=1.0in,bottom=1.25in,left=1.5in,right=1.0in]{geometry}
+\usepackage{graphicx}
+\usepackage{titlesec}
+
+%%  Math packages
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[usenames,dvipsnames]{xcolor}
+\newcommand{\RED}[1]{{\bf{\textcolor{red}{#1}}}}
+\usepackage{subcaption}
+
+%%  Physics packages
+\usepackage{slashed}
+\usepackage[vcentermath]{youngtab}
+
+%%  Misc. packages
+\usepackage{setspace} % spacing
+\usepackage{enumitem} % compact lists
+\usepackage{verbatim} % dunno?
+\usepackage{hyperref} % links!
+\usepackage{appendix} % for appendices? (I didn't use it)
+\usepackage{multirow} % dunno?
+\usepackage{tocloft}  % it's for the table of contents ... i dunno what it does?
+\usepackage{CJK}      % for use of Chinese, Japanese, and Korean characters
+
+
+
+
+
+%%  This stuff seems necessary to format the table of contents, lists of figures and tables...
+\renewcommand{\cfttoctitlefont}{\hfill\normalfont\MakeUppercase}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\renewcommand{\cftloftitlefont}{\hfill\normalfont\MakeUppercase}
+\renewcommand{\cftafterloftitle}{\hfill}
+\renewcommand{\cftlottitlefont}{\hfill\normalfont\MakeUppercase}
+\renewcommand{\cftafterlottitle}{\hfill}
+
+\renewcommand{\bibname}{\hfill\normalfont Bibliography\hfill\hfill\\} % changes the header; default: Bibliography
+%\renewcommand*{\multicitedelim}{\addcomma} % eliminates space between multiple citations
+%\makeatletter
+%\def\NAT@def@citea{\def\@citea{\NAT@separator}}
+%\makeatother
+\usepackage{cite}
+
+%%  Formatting stuff
+\hypersetup{colorlinks=true,citecolor=blue,linkcolor=blue,urlcolor=blue}
+\setlist{nolistsep}
+\doublespacing
+\titleformat{\chapter}[display]{\normalfont\large\bfseries}{\MakeUppercase{\chaptertitlename}\ \thechapter}{0.5em}{}
+\titlespacing*{\chapter}{0pt}{-10pt}{0pt}
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.5em}{}
+
+%% DIE WIDOWS
+\usepackage[all]{nowidow}
+
+%%  Stuff copied form Jason
+\usepackage[nottoc, notlof, notlot]{tocbibind}
+\usepackage[nonumberlist, acronym]{glossaries}
+\setlength{\glsdescwidth}{0.85\hsize}
+\usepackage{setspace}
+\setlength{\footskip}{40pt}
+\setlength{\cftbeforetoctitleskip}{-1em}
+\setlength{\cftaftertoctitleskip}{24pt}
+\setlength{\cftbeforeloftitleskip}{-1em}
+\setlength{\cftafterloftitleskip}{24pt}
+\setlength{\cftbeforelottitleskip}{-1em}
+\setlength{\cftafterlottitleskip}{24pt}
+
+%%  Stuff copied from Rafael
+\setlength{\parindent}{2.5em}    %%  indent paragraphs properly
+\setlength{\parskip}{0em}        %%  don't space out paragraphs
+
+%------------------------------------------------
+\usepackage{sidecap}
+\usepackage{framed}
+\usepackage{float}
+\usepackage{rotating}
+\usepackage{cancel}
+\newcommand{\be}{\begin{equation}}
+\newcommand{\ee}{\end{equation}}
+\newcommand{\bea}{\begin{eqnarray}}
+\newcommand{\eea}{\end{eqnarray}}
+\newcommand{\Lagr}{\mathop{\mathcal{L}}}
+\newcommand{\Hem}{\mathop{\mathcal{H}}}
+\newcommand{\x}{\textbf{x}}
+\newcommand{\n}{\textbf{n}}
+\newcommand{\p}{\textbf{p}}
+\newcommand{\1}{\textbf{1}}
+\newcommand{\m}{\textbf{m}}
+\newcommand{\0}{\textbf{0}}

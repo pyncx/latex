@@ -1,0 +1,28 @@
+\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.0.1.1}{What is Qubit?}{section.0.1}% 2
+\BOOKMARK [2][-]{subsection.0.1.2}{How is qubit different from classical bit?}{section.0.1}% 3
+\BOOKMARK [2][-]{subsection.0.1.3}{What is superposition of qubits?}{section.0.1}% 4
+\BOOKMARK [2][-]{subsection.0.1.4}{How is two qubits system represented?}{section.0.1}% 5
+\BOOKMARK [2][-]{subsection.0.1.5}{What are the postulates of quantum mechanics?}{section.0.1}% 6
+\BOOKMARK [2][-]{subsection.0.1.6}{What is bloch sphere?}{section.0.1}% 7
+\BOOKMARK [2][-]{subsection.0.1.7}{What is coherence?}{section.0.1}% 8
+\BOOKMARK [2][-]{subsection.0.1.8}{What is decoherence?}{section.0.1}% 9
+\BOOKMARK [2][-]{subsection.0.1.9}{what are pure and mixed states?}{section.0.1}% 10
+\BOOKMARK [2][-]{subsection.0.1.10}{What is entanglement?}{section.0.1}% 11
+\BOOKMARK [2][-]{subsection.0.1.11}{What is superdense coding?}{section.0.1}% 12
+\BOOKMARK [2][-]{subsection.0.1.12}{What is teleportation?}{section.0.1}% 13
+\BOOKMARK [2][-]{subsection.0.1.13}{What is bell state?}{section.0.1}% 14
+\BOOKMARK [2][-]{subsection.0.1.14}{What is Heisenberg Uncertainty?}{section.0.1}% 15
+\BOOKMARK [2][-]{subsection.0.1.15}{What is measurement?}{section.0.1}% 16
+\BOOKMARK [2][-]{subsection.0.1.16}{What is quantum parallelism?}{section.0.1}% 17
+\BOOKMARK [2][-]{subsection.0.1.17}{It is possible to construct quantum parallel of classical gates?}{section.0.1}% 18
+\BOOKMARK [2][-]{subsection.0.1.18}{What is the difference between separable and entangled state?}{section.0.1}% 19
+\BOOKMARK [2][-]{subsection.0.1.19}{What happens to the quantum state after a measurement?}{section.0.1}% 20
+\BOOKMARK [2][-]{subsection.0.1.20}{What is local\(relative\) and global phase of qubit?}{section.0.1}% 21
+\BOOKMARK [2][-]{subsection.0.1.21}{What is Born rule?\(Qiskit1.1\)}{section.0.1}% 22
+\BOOKMARK [2][-]{subsection.0.1.22}{What is conservation of certainty?\(Qiskit1.4\)}{section.0.1}% 23
+\BOOKMARK [2][-]{subsection.0.1.23}{What is quantum simulation?}{section.0.1}% 24
+\BOOKMARK [1][-]{section.0.2}{Algebra}{}% 25
+\BOOKMARK [1][-]{section.0.3}{Quantum Gates}{}% 26
+\BOOKMARK [1][-]{section.0.4}{Quantum Circuits}{}% 27
+\BOOKMARK [1][-]{section.0.5}{Quantum Algorithms}{}% 28
