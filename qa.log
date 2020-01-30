@@ -1,58 +1,53 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.13)  2 JAN 2020 22:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  29 JAN 2020 23:23
 entering extended mode
-**./qa.tex
-(qa.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9n> and hyphenation patterns for 69 languages loaded.
-(front/front.tex
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
-Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**qa.tex
+(./qa.tex
+LaTeX2e <2018-12-01>
+(./front/front.tex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\comment\comment.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
- Excluding comment 'comment')
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
-y.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
-sty"
+Excluding comment 'comment')
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf
-.sty"
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvte
-x.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
-x.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -62,48 +57,30 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
-y.cfg"))
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-x.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-s.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
-y"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphic
-s.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
-)
-Package graphics Info: Driver file: pdftex.def on input line 94.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdfte
-x.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
-rerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
-ds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-\Gread@gobject=\count91
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlese
-c.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box26
+\ttl@box=\box27
 \beforetitleunit=\skip43
 \aftertitleunit=\skip44
 \ttl@plus=\dimen113
@@ -113,47 +90,41 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen116
 \titlewidthfirst=\dimen117
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
-sty"
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
-sty"
-Package: amstext 2000/06/29 v2.01
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
-ty"
-File: amsgen.sty 1999/11/30 v2.0
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen118
 ))
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
-ty"
-Package: amsbsy 1999/11/29 v1.2d
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen119
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
-ty"
-Package: amsopn 1999/12/14 v2.01 operator names
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 223.
 \uproot@=\count93
 \leftroot@=\count94
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 385.
 \classnum@=\count95
 \DOTSCASE@=\count96
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
 \big@size=\dimen120
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \macc@depth=\count97
 \c@MaxMatrixCols=\count98
 \dotsspace@=\muskip10
@@ -174,24 +145,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip46
 \multlinetaggap=\skip47
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfont
-s.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb
-.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.st
-y"
-Package: amsthm 2015/03/04 v2.20.2
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks22
 \thm@bodyfont=\toks23
 \thm@headfont=\toks24
@@ -202,42 +170,36 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip50
 \dth@everypar=\toks27
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.st
-y"
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.c
-fg"
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsna
-m.def"
-File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcapti
-on.sty"
-Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.
-sty"
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3
-.sty"
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen127
 \captionmargin@=\dimen128
 \captionwidth=\dimen129
@@ -246,418 +208,451 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen132
 \caption@hangindent=\dimen133
 )
-\c@ContinuedFloat=\count104
+\c@caption@flags=\count104
+\c@ContinuedFloat=\count105
 )
-\c@subfigure=\count105
-\c@subtable=\count106
+\c@subfigure=\count106
+\c@subtable=\count107
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\slashed
-.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/carlisle/slashed.sty
 Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\youngtab\youngta
-b.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/youngtab/youngtab.sty
 Package: youngtab 1999/05/19 v1.1; Macros for Young-Tableaux
 \y@b@xdim=\dimen134
 \y@boxdim=\dimen135
 \y@linethick=\dimen136
 \y@interspace=\skip51
-\y@counter=\count107
+\y@counter=\count108
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspac
-e.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumite
-m.sty"
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
+(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip52
 \enit@outerparindent=\dimen137
 \enit@toks=\toks28
-\enit@inbox=\box29
-\enitdp@description=\count108
+\enit@inbox=\box30
+\enit@count@id=\count109
+\enitdp@description=\count110
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\verbatim.s
-ty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks29
 \verbatim@line=\toks30
 \verbatim@in@stream=\read1
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperre
-f.sty"
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook
-.sty"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
-ns.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen138
-\Hy@linkcounter=\count109
-\Hy@pagecounter=\count110
+\Hy@linkcounter=\count111
+\Hy@pagecounter=\count112
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.
-def"
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count111
+\Hy@SavedSpaceFactor=\count113
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperre
-f.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count112
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count114
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5041.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen139
-\Fld@menulength=\count113
+\Fld@menulength=\count115
 \Field@Width=\dimen140
 \Fld@charsize=\dimen141
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring OFF on input line 6315.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count114
-\c@Item=\count115
-\c@Hfootnote=\count116
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count116
+\c@Item=\count117
+\c@Hfootnote=\count118
 )
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count119
+\c@bookmark@seq@number=\count120
 
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex
-.def"
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count117
-\c@bookmark@seq@number=\count118
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfi
-lecheck.sty"
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip53
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendix\appendi
-x.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count119
-\c@@ppsavesec=\count120
-\c@@ppsaveapp=\count121
+\c@@pps=\count121
+\c@@ppsavesec=\count122
+\c@@ppsaveapp=\count123
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multiro
-w.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count124
+\multirow@dima=\skip55
 \bigstrutjot=\dimen142
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.
-sty"
-Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip54
-\cftbeforetoctitleskip=\skip55
-\cftaftertoctitleskip=\skip56
-\cftbeforepartskip=\skip57
-\cftpartnumwidth=\skip58
-\cftpartindent=\skip59
-\cftbeforechapskip=\skip60
-\cftchapindent=\skip61
-\cftchapnumwidth=\skip62
-\cftbeforesecskip=\skip63
-\cftsecindent=\skip64
-\cftsecnumwidth=\skip65
-\cftbeforesubsecskip=\skip66
-\cftsubsecindent=\skip67
-\cftsubsecnumwidth=\skip68
-\cftbeforesubsubsecskip=\skip69
-\cftsubsubsecindent=\skip70
-\cftsubsubsecnumwidth=\skip71
-\cftbeforeparaskip=\skip72
-\cftparaindent=\skip73
-\cftparanumwidth=\skip74
-\cftbeforesubparaskip=\skip75
-\cftsubparaindent=\skip76
-\cftsubparanumwidth=\skip77
-\cftbeforeloftitleskip=\skip78
-\cftafterloftitleskip=\skip79
-\cftbeforefigskip=\skip80
-\cftfigindent=\skip81
-\cftfignumwidth=\skip82
-\c@lofdepth=\count122
-\c@lotdepth=\count123
-\cftbeforelottitleskip=\skip83
-\cftafterlottitleskip=\skip84
-\cftbeforetabskip=\skip85
-\cfttabindent=\skip86
-\cfttabnumwidth=\skip87
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cjk\CJK.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip56
+\cftbeforetoctitleskip=\skip57
+\cftaftertoctitleskip=\skip58
+\cftbeforepartskip=\skip59
+\cftpartnumwidth=\skip60
+\cftpartindent=\skip61
+\cftbeforechapskip=\skip62
+\cftchapindent=\skip63
+\cftchapnumwidth=\skip64
+\cftbeforesecskip=\skip65
+\cftsecindent=\skip66
+\cftsecnumwidth=\skip67
+\cftbeforesubsecskip=\skip68
+\cftsubsecindent=\skip69
+\cftsubsecnumwidth=\skip70
+\cftbeforesubsubsecskip=\skip71
+\cftsubsubsecindent=\skip72
+\cftsubsubsecnumwidth=\skip73
+\cftbeforeparaskip=\skip74
+\cftparaindent=\skip75
+\cftparanumwidth=\skip76
+\cftbeforesubparaskip=\skip77
+\cftsubparaindent=\skip78
+\cftsubparanumwidth=\skip79
+\cftbeforeloftitleskip=\skip80
+\cftafterloftitleskip=\skip81
+\cftbeforefigskip=\skip82
+\cftfigindent=\skip83
+\cftfignumwidth=\skip84
+\c@lofdepth=\count125
+\c@lotdepth=\count126
+\cftbeforelottitleskip=\skip85
+\cftafterlottitleskip=\skip86
+\cftbeforetabskip=\skip87
+\cfttabindent=\skip88
+\cfttabnumwidth=\skip89
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJK.sty
 Package: CJK 2015/04/18 4.8.4
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cjk\mule\MULEenc
-.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
 Package: MULEenc 2015/04/18 4.8.4
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cjk\CJK.enc"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cjk/texinput/CJK.enc
 File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
 )
 LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box30
+\CJK@indent=\box31
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 50.
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nowidow\nowidow.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/nowidow/nowidow.sty
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbib
-ind.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-)
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\base\
-glossaries.sty"
-Package: glossaries 2016/04/30 v4.23 (NLCT)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2019/01/06 v4.42 (NLCT)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyva
-l.tex"
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvuti
-ls.tex"
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks31
 \XKV@tempa@toks=\toks32
 )
-\XKV@depth=\count124
+\XKV@depth=\count127
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mfirstuc\mfirstu
-c.sty"
-Package: mfirstuc 2015/12/17 v2.02 (NLCT)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbo
-x.sty"
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count125
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count128
 )
 \@glsmfirst=\toks33
 \@glsmrest=\toks34
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcas
-e.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xfor/xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatoo
-l-base.sty"
-Package: datatool-base 2016/01/18 v2.25 (NLCT)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2018/12/07 v2.31 (NLCT)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\substr\substr.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/substr/substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count126
+\c@su@anzahl=\count129
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datatool\datatoo
-l-fp.sty"
-Package: datatool-fp 2016/01/18 v2.25 (NLCT)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2018/12/07 v2.31 (NLCT)
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\defpattern.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/defpattern.sty
 Package: defpattern 1994/10/12
-\actioncount=\count127
+\actioncount=\count130
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-basic.sty
 Package: fp-basic 1996/05/13
-\FP@xs=\count128
-\FP@xia=\count129
-\FP@xib=\count130
-\FP@xfa=\count131
-\FP@xfb=\count132
-\FP@rega=\count133
-\FP@regb=\count134
-\FP@regs=\count135
-\FP@times=\count136
+\FP@xs=\count131
+\FP@xia=\count132
+\FP@xib=\count133
+\FP@xfa=\count134
+\FP@xfb=\count135
+\FP@rega=\count136
+\FP@regb=\count137
+\FP@regs=\count138
+\FP@times=\count139
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-addons.sty
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-addons.sty
 Package: fp-addons 1995/03/15
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-snap.sty
-"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-snap.sty
 Package: fp-snap 1995/04/05
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-trigo.sty
 Package: fp-trigo 1995/04/14
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-random.sty
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-random.sty
 Package: fp-random 1995/02/23
-\FPseed=\count137
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
+\FPseed=\count140
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eqn.sty
 Package: fp-eqn 1995/04/03
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-upn.sty
 Package: fp-upn 1996/10/21
-) ("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eval.sty
-"
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks35
-\@dtl@tmpcount=\count138
-\dtl@tmplength=\skip88
-\dtl@sortresult=\count139
-\@dtl@numgrpsepcount=\count140
-\@dtl@datatype=\count141
-\dtl@codeA=\count142
-\dtl@codeB=\count143
-\@dtl@foreach@level=\count144
+\@dtl@tmpcount=\count141
+\dtl@tmplength=\skip90
+\dtl@sortresult=\count142
+\@dtl@numgrpsepcount=\count143
+\@dtl@datatype=\count144
+\dtl@codeA=\count145
+\dtl@codeB=\count146
+\@dtl@foreach@level=\count147
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\base\
-glossaries-compatible-307.sty"
-Package: glossaries-compatible-307 2016/04/30 v4.23 (NLCT)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/base/glossaries-compat
+ible-307.sty
+Package: glossaries-compatible-307 2019/01/06 v4.42 (NLCT)
 )
-\gls@level=\count145
+\gls@level=\count148
 \@gls@tmpb=\toks36
-\gls@tmplen=\skip89
+\gls@tmplen=\skip91
 \glskeylisttok=\toks37
 \glslabeltok=\toks38
 \glsshorttok=\toks39
 \glslongtok=\toks40
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\style
-s\glossary-hypernav.sty"
-Package: glossary-hypernav 2016/04/30 v4.23 (NLCT)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
+av.sty
+Package: glossary-hypernav 2019/01/06 v4.42 (NLCT)
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\style
-s\glossary-list.sty"
-Package: glossary-list 2016/04/30 v4.23 (NLCT)
-\glslistdottedwidth=\skip90
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
+ty
+Package: glossary-list 2019/01/06 v4.42 (NLCT)
+\glslistdottedwidth=\skip92
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\style
-s\glossary-long.sty"
-Package: glossary-long 2016/04/30 v4.23 (NLCT)
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.
-sty"
-Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip91
-\LTright=\skip92
-\LTpre=\skip93
-\LTpost=\skip94
-\LTchunksize=\count146
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
+ty
+Package: glossary-long 2019/01/06 v4.42 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip93
+\LTright=\skip94
+\LTpre=\skip95
+\LTpost=\skip96
+\LTchunksize=\count149
 \LTcapwidth=\dimen143
-\LT@head=\box31
-\LT@firsthead=\box32
-\LT@foot=\box33
-\LT@lastfoot=\box34
-\LT@cols=\count147
-\LT@rows=\count148
-\c@LT@tables=\count149
-\c@LT@chunks=\count150
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count150
+\LT@rows=\count151
+\c@LT@tables=\count152
+\c@LT@chunks=\count153
 \LT@p@ftn=\toks41
 )
-\glsdescwidth=\skip95
-\glspagelistwidth=\skip96
+\glsdescwidth=\skip97
+\glspagelistwidth=\skip98
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\style
-s\glossary-super.sty"
-Package: glossary-super 2016/04/30 v4.23 (NLCT)
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\supertabular\sup
-ertabular.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-super.
+sty
+Package: glossary-super 2019/01/06 v4.42 (NLCT)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count151
+\c@tracingst=\count154
 \ST@wd=\dimen144
-\ST@rightskip=\skip97
-\ST@leftskip=\skip98
-\ST@parfillskip=\skip99
+\ST@rightskip=\skip99
+\ST@leftskip=\skip100
+\ST@parfillskip=\skip101
 \ST@pageleft=\dimen145
 \ST@headht=\dimen146
 \ST@tailht=\dimen147
@@ -668,58 +663,53 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@prevht=\dimen152
 \ST@toadd=\dimen153
 \ST@dimen=\dimen154
-\ST@pbox=\box35
+\ST@pbox=\box36
 ))
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\style
-s\glossary-tree.sty"
-Package: glossary-tree 2016/04/30 v4.23 (NLCT)
-\glstreeindent=\skip100
-))
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sidecap\sidecap.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
+ty
+Package: glossary-tree 2019/01/06 v4.42 (NLCT)
+\glstreeindent=\skip102
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/sidecap/sidecap.sty
 Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
 \SC@BOXWD=\dimen155
 \SC@CAPWD=\dimen156
 \SC@tempdima=\dimen157
 \SC@tempdimb=\dimen158
-\c@SC@C=\count152
-\SC@BOX=\box36
+\c@SC@C=\count155
+\SC@BOX=\box37
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\framed.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip101
+\OuterFrameSep=\skip103
 \fb@frw=\dimen159
 \fb@frh=\dimen160
 \FrameRule=\dimen161
 \FrameSep=\dimen162
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count153
+\c@float@type=\count156
 \float@exts=\toks42
-\float@box=\box37
+\float@box=\box38
 \@float@everytoks=\toks43
-\@floatcapt=\box38
+\@floatcapt=\box39
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rotating\rotatin
-g.sty"
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count154
-\rotFPtop=\skip102
-\rotFPbot=\skip103
-\rot@float@box=\box39
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count157
+\rotFPtop=\skip104
+\rotFPbot=\skip105
+\rot@float@box=\box40
 \rot@mess@toks=\toks44
 )
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cancel\cancel.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
 ))
 
 LaTeX Warning: Unused global option(s):
     [papersize=8.5in,11in].
 
-(qa.aux)
+(./qa.aux)
 \openout1 = `qa.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -834,124 +824,150 @@ LaTeX Font Info:    ... okay on input line 3.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
-mkii"
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count155
+\scratchcounter=\count158
 \scratchdimen=\dimen163
-\scratchbox=\box40
-\nofMPsegments=\count156
-\nofMParguments=\count157
+\scratchbox=\box41
+\nofMPsegments=\count159
+\nofMParguments=\count160
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count158
+\MPscratchCnt=\count161
 \MPscratchDim=\dimen164
-\MPnumerator=\count159
-\makeMPintoPDFobject=\count160
+\MPnumerator=\count162
+\makeMPintoPDFobject=\count163
 \everyMPtoPDFconversion=\toks46
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ltcaptio
-n.sty"
-Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: sidecap package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box41
+\AtBeginShipoutBox=\box42
 Package hyperref Info: Link coloring ON on input line 3.
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
-.sty"
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\getti
-tlestring.sty"
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count161
+\c@section@level=\count164
 )
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
- (qa.out) (qa.out)
+
+(./qa.out) (./qa.out)
 \@outlinefile=\write4
 \openout4 = `qa.out'.
 
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 126.
 )
-\CenteringLeftskip=\skip104
-\RaggedLeftLeftskip=\skip105
-\RaggedRightLeftskip=\skip106
-\CenteringRightskip=\skip107
-\RaggedLeftRightskip=\skip108
-\RaggedRightRightskip=\skip109
-\CenteringParfillskip=\skip110
-\RaggedLeftParfillskip=\skip111
-\RaggedRightParfillskip=\skip112
-\JustifyingParfillskip=\skip113
-\CenteringParindent=\skip114
-\RaggedLeftParindent=\skip115
-\RaggedRightParindent=\skip116
-\JustifyingParindent=\skip117
-) (chapter/intro.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+\CenteringLeftskip=\skip106
+\RaggedLeftLeftskip=\skip107
+\RaggedRightLeftskip=\skip108
+\CenteringRightskip=\skip109
+\RaggedLeftRightskip=\skip110
+\RaggedRightRightskip=\skip111
+\CenteringParfillskip=\skip112
+\RaggedLeftParfillskip=\skip113
+\RaggedRightParfillskip=\skip114
+\JustifyingParfillskip=\skip115
+\CenteringParindent=\skip116
+\RaggedLeftParindent=\skip117
+\RaggedRightParindent=\skip118
+\JustifyingParindent=\skip119
+) (./chapter/markov.tex
+<pic/ncx.png, id=12, 467.7475pt x 264.99pt>
+File: pic/ncx.png Graphic file (type png)
+<use pic/ncx.png>
+Package pdftex.def Info: pic/ncx.png  used on input line 7.
+(pdftex.def)             Requested size: 216.81pt x 122.8309pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 
-("C:\Users\Namoona\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) (chapter/algebra.tex) (chapter/gates.tex) (chapter/circuit.tex)
-(chapter/algorithm.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
- [1
+) [1
 Non-PDF special ignored!
+<special> papersize=614.295pt,794.96999pt
 
-{C:/Users/Namoona/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Overfull \vbox (125.81917pt too high) has occurred while \output is active []
-
-
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
- (qa.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pic/n
+cx.png>] [2])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+ (./qa.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `qa.out' has not changed.
-(rerunfilecheck)             Checksum: F3759FF96E9A6A27F03EC846D1A67DF3;2294.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 28.
+(rerunfilecheck)             Checksum: 971482A5FA866952BB86AB8BAAEBB99E;132.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
  ) 
 Here is how much of TeX's memory you used:
- 14197 strings out of 493634
- 212330 string characters out of 3134423
- 373181 words of memory out of 3000000
- 17258 multiletter control sequences out of 15000+200000
- 8893 words of font info for 34 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 48i,11n,40p,1981b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Namoona/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/Namoona/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Namoona/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Namoona/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on qa.pdf (3 pages, 65121 bytes).
+ 14551 strings out of 492616
+ 214424 string characters out of 6129482
+ 391850 words of memory out of 5000000
+ 18142 multiletter control sequences out of 15000+600000
+ 9201 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,6n,77p,2030b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on qa.pdf (3 pages, 128858 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
