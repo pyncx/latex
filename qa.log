@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  29 JAN 2020 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  9 FEB 2020 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,7 +910,7 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedRightParindent=\skip118
 \JustifyingParindent=\skip119
 ) (./chapter/markov.tex
-<pic/ncx.png, id=12, 467.7475pt x 264.99pt>
+<pic/ncx.png, id=20, 467.7475pt x 264.99pt>
 File: pic/ncx.png Graphic file (type png)
 <use pic/ncx.png>
 Package pdftex.def Info: pic/ncx.png  used on input line 7.
@@ -936,7 +936,7 @@ Non-PDF special ignored!
 <special> papersize=614.295pt,794.96999pt
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pic/n
-cx.png>] [2])
+cx.png>] [2]) (./chapter/qalgo.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
  [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
@@ -944,14 +944,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `qa.out' has not changed.
-(rerunfilecheck)             Checksum: 971482A5FA866952BB86AB8BAAEBB99E;132.
+(rerunfilecheck)             Checksum: D59E3B36E32CD55B1C08D24408FDFF3E;280.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
  ) 
 Here is how much of TeX's memory you used:
- 14551 strings out of 492616
- 214424 string characters out of 6129482
+ 14558 strings out of 492616
+ 214525 string characters out of 6129482
  391850 words of memory out of 5000000
- 18142 multiletter control sequences out of 15000+600000
+ 18144 multiletter control sequences out of 15000+600000
  9201 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,6n,77p,2030b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -964,10 +964,10 @@ sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
 ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
 l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on qa.pdf (3 pages, 128858 bytes).
+Output written on qa.pdf (3 pages, 132386 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
